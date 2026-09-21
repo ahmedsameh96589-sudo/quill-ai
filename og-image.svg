@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8B5CF6" />
+      <stop offset="1" stop-color="#3B82F6" />
+    </linearGradient>
+    <radialGradient id="violet" cx="0.2" cy="0.15" r="0.5">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.35" />
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="blue" cx="0.85" cy="0.9" r="0.5">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.3" />
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="#05060F" />
+  <rect width="1200" height="630" fill="url(#violet)" />
+  <rect width="1200" height="630" fill="url(#blue)" />
+
+  <rect x="80" y="72" width="56" height="56" rx="14" fill="url(#brand)" />
+  <text x="152" y="112" font-family="Space Grotesk, Inter, sans-serif" font-size="34" font-weight="600" fill="#F4F5FB">Quill</text>
+
+  <text x="80" y="290" font-family="Space Grotesk, Inter, sans-serif" font-size="76" font-weight="700" fill="#F4F5FB">Turn a two-line brief into</text>
+  <text x="80" y="376" font-family="Space Grotesk, Inter, sans-serif" font-size="76" font-weight="700" fill="url(#brand)">publish-ready copy.</text>
+
+  <text x="80" y="452" font-family="Inter, sans-serif" font-size="30" fill="#A9AFC6">Blog posts, emails, ads, translations, and SEO briefs  in your brand voice.</text>
+  <text x="80" y="546" font-family="Inter, sans-serif" font-size="26" fill="#7A80A0"> 4.9 · Loved by 12,000+ writers and teams</text>
+</svg>
